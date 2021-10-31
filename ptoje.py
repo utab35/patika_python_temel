@@ -1,4 +1,4 @@
- Working recursive implementation
+# Working recursive implementation
 a = [[1,'a',['cat'],2],[[[3]],'dog'],4,5,[[[3,2], [3,4, 3]]]]
 #
 def flatten(l):
